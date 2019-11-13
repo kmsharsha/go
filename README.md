@@ -7,5 +7,5 @@ Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make
 ## Installation
 
 ```
-source ./setup.sh
+source ./setup.sh && source ~/.bashrc
 ```
